@@ -4,8 +4,6 @@ Práctica universitaria de **Estructura de Datos I** desarrollada en **C++**, ce
 
 El programa permite desplegar y administrar servidores, controlar su estado y gestionar jugadores conectados o en espera utilizando estructuras implementadas manualmente.
 
-> Este repositorio tiene finalidad académica y refleja el trabajo realizado durante la práctica.
-
 ---
 
 ## Objetivo
