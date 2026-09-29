@@ -1,6 +1,6 @@
 # EDI - Gestor de Servidores de Juego
 
-Práctica universitaria de **EDI** desarrollada en **C++**, centrada en el diseño e implementación de estructuras de datos dinámicas aplicadas a un sistema de gestión de servidores para juegos multijugador.
+Práctica universitaria de **Estructura de Datos I** desarrollada en **C++**, centrada en el diseño e implementación de estructuras de datos dinámicas aplicadas a un sistema de gestión de servidores para juegos multijugador.
 
 El programa permite desplegar y administrar servidores, controlar su estado y gestionar jugadores conectados o en espera utilizando estructuras implementadas manualmente.
 
